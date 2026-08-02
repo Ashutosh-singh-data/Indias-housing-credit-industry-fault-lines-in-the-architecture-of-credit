@@ -12,8 +12,6 @@
 Department of Economics, Hansraj College, University of Delhi as part of Inceptum 2026.
 
 **Team DataQuant | MNNIT Allahabad**
-- Ashutosh Singh
-- Vivek Anand
 
 ---
 
